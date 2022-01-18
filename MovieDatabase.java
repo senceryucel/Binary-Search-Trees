@@ -1,5 +1,4 @@
 //Sencer Yücel
-//16933103152
 //MovieDatabase Class for hw3
 
 public class MovieDatabase{
