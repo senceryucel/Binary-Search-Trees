@@ -1,5 +1,4 @@
 //Sencer Yücel
-//16933103152
 //Stack Implementation Class for hw3
 
 import java.util.Iterator;
