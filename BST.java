@@ -1,5 +1,4 @@
 //Sencer Yücel
-//16933103152
 //Binary Search Tree Class for hw3
 public class BST<Key extends Comparable<Key>,Value>{
     private Node root;
