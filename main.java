@@ -1,5 +1,4 @@
 //Sencer Yücel
-//16933103152
 //main
 
 public class main {
